@@ -1,0 +1,14 @@
+{
+  "name": "Segment + AI Hackathon",
+  "saved_chat_options": [
+    {
+      "name": "Innovisure (Electronic Device Insurance)",
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/electronic-device-insurance/trips.json" 
+    },
+    {
+      "name": "ShareSprint (File Sharing)",
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trips.json" 
+    }
+  ]
+  
+}
