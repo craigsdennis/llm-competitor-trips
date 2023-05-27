@@ -3,11 +3,11 @@
   "saved_chats": [
     {
       "name": "Innovisure (Electronic Device Insurance)",
-      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/electronic-device-insurance/trips.json" 
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/electronic-device-insurance/trip.json" 
     },
     {
       "name": "ShareSprint (File Sharing)",
-      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trips.json" 
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trip.json" 
     }
   ]
   
