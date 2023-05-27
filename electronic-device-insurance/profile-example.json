@@ -1,0 +1,33 @@
+{
+    "name": "John Smith",
+    "age": 35,
+    "gender": "Male",
+    "location": "Chicago, IL",
+    "occupation": "IT Manager",
+    "income": 85000,
+    "education": "Bachelor's Degree in Computer Science",
+    "interests": ["Technology innovations", "cybersecurity", "IoT", "smart home devices", "fitness", "travel"],
+    "preferred_channels": ["Email", "social media", "mobile app notifications"],
+    "favorite_products": ["Smart home devices", "wearable tech", "cybersecurity software"],
+    "account_created": "January 15, 2019",
+    "last_purchase": "June 10, 2021",
+    "purchase_frequency": "3-4 times per year",
+    "average_order_value": 150,
+    "lifetime_value": 2250,
+    "products_viewed": 75,
+    "products_purchased": 15,
+    "referrals": 3,
+    "customer_satisfaction_score": 8,
+    "computed_traits": {
+      "tech_enthusiast": true,
+      "early_adopter": true,
+      "brand_loyal": true
+    },
+    "predictive_traits": {
+      "product_recommendations": ["IoT security solutions", "advanced fitness wearables", "innovative smart home devices"],
+      "churn_probability": "low",
+      "cross_sell_potential": ["cybersecurity", "smart home systems", "cutting-edge gadgets"],
+      "response_to_marketing_campaigns": ["email", "social media"],
+      "future_lifetime_value": "expected to grow"
+    }
+  }

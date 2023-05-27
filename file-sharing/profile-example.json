@@ -1,0 +1,32 @@
+{
+    "full_name": "Alex Johnson",
+    "email": "alexjohnson@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "New York, NY, USA",
+    "job_title": "Marketing Manager",
+    "industry": "E-commerce",
+    "company_size": "200 employees",
+    "annual_revenue": "$10 million",
+    "years_in_business": "5 years",
+    "cdpuser_profile": {
+        "computed_traits": {
+            "average_time_spent_on_website": "15 minutes",
+            "number_of_website_visits_per_month": "10",
+            "number_of_successful_referrals": "5",
+            "most_visited_product_category": "Digital Marketing Tools",
+            "average_purchase_value": "$200",
+            "customer_lifetime_value": "$3,000",
+            "number_of_customer_support_interactions": "7",
+            "preferred_communication_channel": "Email"
+        },
+        "predictive_traits": {
+            "churn_probability": "10%",
+            "likelihood_of_upgrading_to_higher_plan": "70%",
+            "estimated_clvin_the_next_year": "$4,000",
+            "next_likely_purchase_category": "Social Media Management Tools",
+            "preferred_time_of_day_for_receiving_communications": "10 AM",
+            "likelihood_of_attending_share_sprint_webinar": "60%",
+            "likelihood_of_participating_in_customer_survey": "80%"
+        }
+    }
+}

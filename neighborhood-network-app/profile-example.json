@@ -1,0 +1,29 @@
+{
+    "profile_overview": {
+      "name": "John Smith",
+      "age": 35,
+      "gender": "Male",
+      "location": "Austin, Texas",
+      "occupation": "Software Engineer",
+      "marital_status": "Married",
+      "children": 1,
+      "interests": ["Technology", "Fitness", "Movies", "Travel", "Music"]
+    },
+    "computed_traits": {
+      "tech_savvy": "High",
+      "fitness_enthusiast": "Medium",
+      "movie_buff": "Medium",
+      "travel_frequency": "Low",
+      "social_activity": "Medium"
+    },
+    "predictive_traits": {
+      "homeownership": "High",
+      "online_shopping": "High",
+      "fitness_product_purchases": "Medium",
+      "streaming_service_subscriptions": "High",
+      "smart_home_device_adoption": "High",
+      "interest_in_electric_vehicles": "Medium",
+      "family_vacations": "Medium",
+      "community_engagement": "Medium"
+    }
+  }

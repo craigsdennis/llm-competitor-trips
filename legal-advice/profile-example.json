@@ -1,0 +1,41 @@
+{
+    "profile_id": "LS-78234",
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "age": 34,
+    "gender": "Female",
+    "location": "New York City, NY",
+    "occupation": "Paralegal",
+    "education": "Bachelor's degree in Legal Studies",
+    "interests": [
+      "Legal research",
+      "Contract drafting",
+      "Intellectual property",
+      "Criminal law",
+      "Family law",
+      "Real estate law"
+    ],
+    "behavioral_data": {
+      "website_visits_per_week": 3,
+      "average_session_duration_minutes": 10,
+      "preferred_article_topics": [
+        "Legal research",
+        "Criminal law"
+      ],
+      "social_media_shares": true,
+      "webinars_attended": 2
+    },
+    "computed_traits": {
+      "high_engagement": true,
+      "strong_interest_criminal_law": true,
+      "strong_interest_legal_research": true,
+      "likely_attend_webinars": true,
+      "potential_brand_advocate": true
+    },
+    "predictive_traits": {
+      "likely_enroll_advanced_course": true,
+      "high_recommendation_probability": true,
+      "potential_premium_member": true,
+      "interested_in_conference": true
+    }
+  }
