@@ -3,12 +3,19 @@
   "saved_chats": [
     {
       "name": "Innovisure (Electronic Device Insurance)",
-      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/electronic-device-insurance/trip.json" 
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/electronic-device-insurance/trip.json"
+    },
+    {
+      "name": "LegallySavvi (Legal Advice)",
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/legal-advice/trip.json"
+    },
+    {
+      "name": "NeighborNexus (Neighborhood Network App)",
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/neighborhood-network-app/trip.json"
     },
     {
       "name": "ShareSprint (File Sharing)",
-      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trip.json" 
+      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trip.json"
     }
   ]
-  
 }
