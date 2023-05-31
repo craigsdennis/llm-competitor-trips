@@ -10,10 +10,6 @@
       "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/legal-advice/trip.json"
     },
     {
-      "name": "NeighborNexus (Neighborhood Network App)",
-      "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/neighborhood-network-app/trip.json"
-    },
-    {
       "name": "ShareSprint (File Sharing)",
       "url": "https://raw.githubusercontent.com/craigsdennis/llm-competitor-trips/main/file-sharing/trip.json"
     }
